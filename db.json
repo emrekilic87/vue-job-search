@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "positionName": "operatör",
+      "companyName": "arçelik fabrikası",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "istanbul",
+      "townName": "çengelköy mahallesi"
+    },
+    {
+      "id": "2",
+      "positionName": "doktor",
+      "companyName": "anadolu hastanesi",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "ankara",
+      "townName": "çankaya mahallesi"
+    },
+    {
+      "id": "3",
+      "positionName": "mühendis",
+      "companyName": "volvo fabrikası",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "izmir",
+      "townName": "karşıyaka mahallesi"
+    },
+    {
+      "id": "4",
+      "positionName": "operatör",
+      "companyName": "tuzla tersanesi",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "bursa",
+      "townName": "çekirge mahallesi"
+    },
+    {
+      "id": "5",
+      "positionName": "müdür",
+      "companyName": "volvo fabrikası",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "antalya",
+      "townName": "muratpaşa mahallesi"
+    },
+    {
+      "id": "6",
+      "positionName": "operatör",
+      "companyName": "aydın tersanesi",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "aydın",
+      "townName": "aydın mahallesi"
+    },
+    {
+      "id": "7",
+      "positionName": "müdür yardımcısı",
+      "companyName": "kadıköy okulu",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "istanbul",
+      "townName": "moda mahallesi"
+    },
+    {
+      "id": "8",
+      "positionName": "mühendis",
+      "companyName": "can otomotiv",
+      "durationDay": 0,
+      "durationDayText": "taze çıktı!",
+      "distance": "8,53 km yakınında",
+      "latitude": 41.05096817016602,
+      "longitude": 29.06285667419434,
+      "cityName": "ankara",
+      "townName": "can mahallesi"
+    }
+  ]
+}

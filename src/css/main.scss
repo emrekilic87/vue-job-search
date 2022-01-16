@@ -1,0 +1,24 @@
+@import "./reset.scss";
+
+#app {
+  height: 100%;
+}
+
+#app,
+.layout {
+  background-color: #0d1117;
+}
+
+.container {
+  padding: 0 15px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 16px;
+}
+
+.bold {
+  font-weight: bold;
+}
